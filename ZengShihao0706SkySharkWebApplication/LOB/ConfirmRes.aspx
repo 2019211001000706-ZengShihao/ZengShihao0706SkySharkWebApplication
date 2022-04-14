@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ConfirmRes.aspx.cs" Inherits="Xuhuan0727SkySharkWebApplication.LOB.ConfirmRes" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ConfirmRes.aspx.cs" Inherits="ZengShihao0706SkySharkWebApplication.LOB.ConfirmRes" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">\
     Business Executive
 </asp:Content>

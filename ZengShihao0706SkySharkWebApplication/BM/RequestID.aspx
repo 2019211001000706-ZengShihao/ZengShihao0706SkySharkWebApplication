@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="RequestID.aspx.cs" Inherits="Xuhuan0727SkySharkWebApplication.BM.RequestID" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="RequestID.aspx.cs" Inherits="ZengShihao0706SkySharkWebApplication.BM.RequestID" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     Business Manager
 </asp:Content>

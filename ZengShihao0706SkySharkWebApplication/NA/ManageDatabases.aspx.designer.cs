@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace Xuhuan0727SkySharkWebApplication.NA
+namespace ZengShihao0706SkySharkWebApplication.NA
 {
 
 

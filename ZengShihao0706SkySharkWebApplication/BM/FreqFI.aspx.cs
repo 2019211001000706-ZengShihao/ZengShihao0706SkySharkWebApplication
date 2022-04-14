@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Xuhuan0727SkySharkWebApplication.BM
+namespace ZengShihao0706SkySharkWebApplication.BM
 {
     public partial class FreqFI : System.Web.UI.Page
     {

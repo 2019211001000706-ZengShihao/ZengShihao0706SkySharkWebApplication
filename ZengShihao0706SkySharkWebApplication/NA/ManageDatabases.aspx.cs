@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Xuhuan0727SkySharkWebApplication.NA
+namespace ZengShihao0706SkySharkWebApplication.NA
 {
     public partial class ManageDatabases : System.Web.UI.Page
     {
