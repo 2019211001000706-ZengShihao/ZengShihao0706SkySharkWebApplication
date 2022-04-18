@@ -72,7 +72,6 @@
     <Content Include="BM\Reports.aspx" />
     <Content Include="BM\RequestID.aspx" />
     <Content Include="BM\RequsetID.aspx" />
-    <Content Include="BM\AddFI1.aspx" />
     <Content Include="ChangePassword.aspx" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
@@ -122,13 +121,6 @@
     </Compile>
     <Compile Include="BM\RequsetID.aspx.designer.cs">
       <DependentUpon>RequsetID.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="BM\AddFI1.aspx.cs">
-      <DependentUpon>AddFI1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="BM\AddFI1.aspx.designer.cs">
-      <DependentUpon>AddFI1.aspx</DependentUpon>
     </Compile>
     <Compile Include="ChangePassword.aspx.cs">
       <DependentUpon>ChangePassword.aspx</DependentUpon>

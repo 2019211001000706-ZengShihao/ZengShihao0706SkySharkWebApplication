@@ -13,5 +13,14 @@ namespace ZengShihao0706SkySharkWebApplication.LOB
         {
 
         }
+        protected void Wizard1_FinishButtonClick(object sender, WizardNavigationEventArgs e)
+        {
+
+        }
+
+        protected void Wizard1_NextButtonClick(object sender, WizardNavigationEventArgs e)
+        {
+
+        }
     }
 }

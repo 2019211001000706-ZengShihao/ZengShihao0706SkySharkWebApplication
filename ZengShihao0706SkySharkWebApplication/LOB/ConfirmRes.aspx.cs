@@ -13,5 +13,10 @@ namespace ZengShihao0706SkySharkWebApplication.LOB
         {
 
         }
+
+        protected void btnConfirm_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
